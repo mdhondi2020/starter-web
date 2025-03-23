@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 Approach-1
 
 Approach-2
+Approach-4
+
+Approach-4 // JUST IN WORKING directory
