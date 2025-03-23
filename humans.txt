@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Motilal <role> Manger <twitter> abc@twitter
 
 # THANKS
 
