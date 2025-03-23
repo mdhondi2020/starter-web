@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Intorduction 
-Introduction to Git practice practice makes man perfect
+Introduction to Git practice
 ## Purpose
 
 Sample website with plenty of files for demos
