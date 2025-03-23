@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Approach-1
+
+Approach-2
