@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 Introduction to Git practice
 ## Purpose
 
-Sample website with plenty of files for demos, for the Rebasing example,  for the II time
+Sample website with plenty of files for demos, for the Rebasing example,  for the II time, for III time
 
 ## How to Contribute 
 
