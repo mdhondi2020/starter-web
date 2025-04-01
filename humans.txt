@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> Motilal <role> Senior Manger <twitter> abc@twitter
+    <name> Motilal <role> Deleviry Manger <twitter> abc@twitter
 
 # THANKS
 
