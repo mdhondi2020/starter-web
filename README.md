@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Intorduction 
-Introduction to Git practice
+Introduction to Git practice for Tags
 ## Purpose
 
 Sample website
